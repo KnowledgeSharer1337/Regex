@@ -1,0 +1,4 @@
+08-01-2021: There is a System.InvalidCalculationException and a System.OutOfboundsException- System reboots
+09-01-2021: SuperSystem recognised a System.IO.WritingException ask user what to do next
+10-01-2021: Hello again, how are you today?
+10-01-2021: Oh no, not again an InternalException.NullReference.NonCritical.User we should fix it!
