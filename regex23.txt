@@ -1,0 +1,5 @@
+https://website.com
+http://website.com
+httpss://website.de
+httpx://website.de
+httpxx://website.com
